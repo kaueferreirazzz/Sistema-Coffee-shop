@@ -1,23 +1,23 @@
-# ☕ Coffee Shops Tia Rosa — Sistema de Gerenciamento em Python
+# Coffee Shops Tia Rosa — Sistema de Gerenciamento em Python
 
 Sistema desenvolvido em Python para modernizar a gestão da cafeteria **Coffee Shops Tia Rosa**, atendendo às necessidades identificadas na situação-problema da atividade: falta de organização no cadastro de produtos, ausência de sistema de gestão interno, dificuldade na fidelização de clientes e baixa familiaridade da equipe com tecnologia.
 
-## 🎯 Objetivo
+## Objetivo
 
 Desenvolver uma solução em Python que simule funcionalidades de um sistema de gerenciamento/atendimento para a cafeteria, como cadastro de produtos, pedidos e clientes.
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - **Produtos**: cadastro, listagem, atualização de estoque e remoção de itens do cardápio.
 - **Clientes**: cadastro, listagem e pontuação automática em programa de fidelidade (1 ponto a cada R$10 gastos).
 - **Pedidos**: criação com múltiplos itens, verificação automática de estoque, cálculo de total, aplicação de cupons de desconto e cancelamento (com devolução ao estoque).
 - **Relatórios**: total vendido, quantidade de pedidos e produto mais vendido.
 
-## 🧠 Conceitos aplicados
+## Conceitos aplicados
 
 Classes, dicionários, listas, funções, estruturas de repetição e condicionais, tratamento de erros (`try/except`).
 
-## ▶️ Como executar
+## Como executar
 
 Pré-requisito: Python 3 instalado.
 
